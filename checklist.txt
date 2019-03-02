@@ -13,7 +13,7 @@
 - Create a Procfile and
 - Install django-heroku
 - Add stuff to settings.py file
-- Install guincorn
+- Install gunicorn
 - pip freeze > requirements.txt
 - heroku create attreyaweb (to create an app on heroku)
 - git status git commands (git push heroku master)
